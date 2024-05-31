@@ -4,24 +4,24 @@
   }
 
 ::ng-deep .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
-    background-color: rgba(27, 148, 230, 0.932) !important;
-    border-color: rgba(27, 148, 230, 0.932) !important;
+    background-color: rgb(84, 190, 187) !important;
+    border-color: rgb(84, 190, 187) !important;
 }
 
 ::ng-deep .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-inner-circle {
-    background-color: rgba(27, 148, 230, 0.932) !important;
+    background-color: rgb(84, 190, 187) !important;
 }
                          
 /* For checked state */
 ::ng-deep .mat-checkbox-checked .mat-checkbox-background,
 ::ng-deep .mat-checkbox-indeterminate .mat-checkbox-background {
-    background-color:rgba(27, 148, 230, 0.932) !important;
-    border-color:rgba(27, 148, 230, 0.932)!important;
+    background-color:rgb(84, 190, 187) !important;
+    border-color:rgb(84, 190, 187)!important;
 }
 ::ng-deep .mat-step-header .mat-step-icon-selected, 
 ::ng-deep .mat-step-header .mat-step-icon-state-done, 
 ::ng-deep .mat-step-header .mat-step-icon-state-edit {
-    background-color: rgba(27, 148, 230, 0.932);
+    background-color: rgb(84, 190, 187);
     color: #fff;
 }
 .custom-label {
@@ -48,11 +48,11 @@
     width: 100%;
 }
 .sexe{
-width: 180px;
+width: 200px;
 }
 .button {
     /* Couleur de fond avec transparence */
-    background-color: rgba(27, 148, 230, 0.932);
+    background-color: rgb(84, 190, 187);
     
     /* Couleur du texte */
     color: #fff;
